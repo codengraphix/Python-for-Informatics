@@ -1,2 +1,3 @@
 # Python-for-Informatics
-By Charles Severance
+Python for Informatics by Charles Severance (book270.pdf)
+Python for Data Science Cheat Sheet 
